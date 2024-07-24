@@ -1,6 +1,7 @@
 ## Hello 👋
 - Currently studying electrical engineering.
 - I'm self learning different programming languages.
+- From El Salvador.
 <!--
 **MomotoCejiazul/MomotoCejiazul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
